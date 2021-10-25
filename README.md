@@ -6,8 +6,8 @@ Sona with Arduino UNO
 
 # Sona - HC-SR04 Sensor
 HC-SR04<br>
-SV90
-Arduino UNO
+SV90<br>
+Arduino UNO<br>
 
 ![회로도](https://user-images.githubusercontent.com/88410343/138645697-6a5ee9e6-8924-418d-a10f-912344f8b740.jpg)
 
